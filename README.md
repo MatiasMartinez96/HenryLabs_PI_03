@@ -21,7 +21,7 @@ Una empresa prestadora de servicios de telecomunicaciones me ha encargado la rea
 Realizar un análisis de tendencia del sector de Telecomunicaciones en Argentina, con foco en el servicio de internet. Luego reflejar el mismo mediante una presentación eficiente y facilmente entendible para las autoridades de la compañía.
 
 ## **Herramientas utilizadas**
-
+<img src = 'https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg' height = 200>
 + PowerBI, PowerQuery, DAX.
 
 ## **Fuentes**
