@@ -3,7 +3,7 @@
 # <h1 align=center>**`Telecomunicaciones`**</h1>
 
 <p align="center">
-<img src = 'https://enacom.gob.ar/multimedia/noticias/N/201801/archivo_20180131012432_8996_720x447.jpg' height = 200>
+<img src = 'https://www.ceupe.com/images/easyblog_articles/2745/b2ap3_large_tecnologas-de-las-telecomunicaciones.jpg' height = 200>
 </p>
 
 Bienvenidos a mi Proyecto Individual N°3 de la etapa de LABS de Henry. En esta ocasión, se hará un trabajo situándose en el rol de un ***Data Analyst***. 
@@ -27,3 +27,4 @@ Realizar un análisis de tendencia del sector de Telecomunicaciones en Argentina
 ## **Fuentes**
 
 - ENACOM: https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/
+<img src = 'https://enacom.gob.ar/multimedia/noticias/N/201801/archivo_20180131012432_8996_720x447.jpg' height = 200>
