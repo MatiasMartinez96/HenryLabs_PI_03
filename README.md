@@ -6,7 +6,7 @@
 <img src = 'https://enacom.gob.ar/multimedia/noticias/N/201801/archivo_20180131012432_8996_720x447.jpg' height = 200>
 </p>
 
-En esta ocasión, se hará un trabajo situándose en el rol de un ***Data Analyst***. 
+Bienvenidos a mi Proyecto Individual N°3 de la etapa de LABS de Henry.En esta ocasión, se hará un trabajo situándose en el rol de un ***Data Analyst***. 
 
 ## **Contexto**
 
@@ -14,20 +14,11 @@ La industria de las telecomunicaciones ha jugado un papel vital en nuestra socie
 
 En comparación con la media mundial, Argentina está a la vanguardia del desarrollo de las telecomunicaciones, teniendo para el 2020 un total de 62,12 millones conexiones.
 
-## **Propuesta de trabajo**
+## **Objetivo**
 
-En este contexto, una empresa prestadora de servicios de telecomunicaciones le encarga a usted la realización de un análisis completo que permita reconocer el comportamiento de este sector a nivel nacional. Considere que la principal actividad de la empresa es brindar acceso a internet, pero también es importante considerar el resto de los servicios.
+Realizar un análisis completo que permita reconocer el comportamiento de este sector a nivel nacional. La principal actividad de la empresa es brindar acceso a internet, pero también es importante considerar el resto de los servicios.
 
-Con el fin de monitorear la eficacia de los objetivos de la empresa, se le pide visualizar en un dashboard los siguientes KPI´s producto de su análisis:
-
-<ol>
-    </li>
-      <li><strong>KPI: </strong>Evaluar el aumento o disminución de la variación porcentual trimestral del servicio de internet, cada 100 hogares por provincia.</li>
-      <li><strong>KPI: </strong>Velocidad de bajada (Mbps) promedio del internet a traves de los años.</li>
-      <li><strong>KPI: </strong>Cantidad de reclamos mensual por operador.</li>
-      <li><strong>KPI: </strong>Cantidad de reclamos mensual por tipo de servicio.</li>
-    </li>
-</ol>
+Realizar un análisis de tendencia del sector de Telecomunicaciones en Argentina, con foco en el servicio de internet. Se simula la presentación a una empresa prestadora de ser servicios de telecomunicaciones.
 
 ## **Tecnologías usadas**
 <!--- https://github.com/alexandresanlim/Badges4-README.md-Profile#-analytics- -->
