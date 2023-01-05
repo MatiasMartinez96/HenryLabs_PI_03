@@ -3,7 +3,7 @@
 # <h1 align=center>**`Telecomunicaciones`**</h1>
 
 <p align="center">
-<img src = 'https://www.ceupe.com/images/easyblog_articles/2745/b2ap3_large_tecnologas-de-las-telecomunicaciones.jpg' height = 500>
+<img src = 'https://www.ceupe.com/images/easyblog_articles/2745/b2ap3_large_tecnologas-de-las-telecomunicaciones.jpg' height = 400>
 </p>
 
 Bienvenidos a mi Proyecto Individual N°3 de la etapa de LABS de Henry. En esta ocasión, se hará un trabajo situándose en el rol de un ***Data Analyst***. 
@@ -21,7 +21,7 @@ Una empresa prestadora de servicios de telecomunicaciones me ha encargado la rea
 Realizar un análisis de tendencia del sector de Telecomunicaciones en Argentina, con foco en el servicio de internet. Luego reflejar el mismo mediante una presentación eficiente y facilmente entendible para las autoridades de la compañía.
 
 ## **Herramientas utilizadas**
-<img src = 'https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg' height = 200>
+<img src = 'https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg' height = 100>
 + PowerBI, PowerQuery, DAX.
 
 ## **Fuentes**
