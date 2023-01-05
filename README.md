@@ -25,6 +25,5 @@ Realizar un análisis de tendencia del sector de Telecomunicaciones en Argentina
 + PowerBI, PowerQuery, DAX.
 
 ## **Fuentes**
-
-- ENACOM: https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/
 <img src = 'https://enacom.gob.ar/multimedia/noticias/N/201801/archivo_20180131012432_8996_720x447.jpg' height = 200>
+- ENACOM: https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/
