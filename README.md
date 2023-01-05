@@ -23,3 +23,7 @@ Realizar un análisis de tendencia del sector de Telecomunicaciones en Argentina
 ## **Herramientas utilizadas**
 
 + PowerBI, PowerQuery, DAX.
+
+## **Fuentes**
+
+- ENACOM: https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/
