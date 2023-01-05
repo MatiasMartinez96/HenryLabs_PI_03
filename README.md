@@ -3,7 +3,7 @@
 # <h1 align=center>**`Telecomunicaciones`**</h1>
 
 <p align="center">
-<img src = 'https://www.ceupe.com/images/easyblog_articles/2745/b2ap3_large_tecnologas-de-las-telecomunicaciones.jpg' height = 200>
+<img src = 'https://www.ceupe.com/images/easyblog_articles/2745/b2ap3_large_tecnologas-de-las-telecomunicaciones.jpg' height = 500>
 </p>
 
 Bienvenidos a mi Proyecto Individual N°3 de la etapa de LABS de Henry. En esta ocasión, se hará un trabajo situándose en el rol de un ***Data Analyst***. 
